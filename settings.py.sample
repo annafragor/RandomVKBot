@@ -1,0 +1,3 @@
+login = 'your_login'
+password = 'your_password'
+token = 'your_token' # токен для авторизации как сообщество
